@@ -12,7 +12,8 @@ Here's a few commands I am finding helpful so far.
 - `mv` - move somewhere else
 - `pwd` - "Where am I?
 - `-` - are flags  (ex: ls -a would show ALL files and wouldn't exclude any).
-- `mv` rename a file ( mv ben_kenobe.txt obo_wan.txt)
+- `mv`- rename a file ( mv ben_kenobe.txt obo_wan.txt)
+- `cp` - copy a file ( cp death_star/storm_trooper.txt tatooine/storm_trooper.txt) 
 ### This is very helpful!
 - `a few letters and /` - tab completion, nice and quick way to quickly fill in what youre probably typing!
 ### THIS IS PERMANENT!
